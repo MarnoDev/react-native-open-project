@@ -4,7 +4,7 @@
 >我们的公众号【aMarno】 ，或者直接扫码关注↓↓↓
 </br>专注分享React Native开发技术和资源
 </br>关注公众号回复RN，可加入RN技术交流群，1群已满，请加2群
-</br>![](http://www.marno.cn)
+</br>![](https://github.com/MarnoDev/react-native-open-project/blob/master/res/wechatQR.jpg)
 </br>关注我在简书的React Native专题 **[《React Native开发阵营》](http://www.jianshu.com/c/b4ce1d706d1f)**
 </br>我的主页：>>>**[1.掘金](https://gold.xitu.io/user/56c1c513c24aa800534e85f3)** >>>**[2.简书](http://www.jianshu.com/u/174a09ba6c25)**
 </br>我们的网站：www.marno.cn（正在建设一个独特的技术空间，敬请期待！）

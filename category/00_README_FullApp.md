@@ -4,7 +4,7 @@
 >我们的公众号【aMarno】 ，或者直接扫码关注↓↓↓
 </br>专注分享React Native开发技术和资源
 </br>关注公众号回复RN，可加入RN技术交流群，1群已满，请加2群
-</br>![](http://www.marno.cn)
+</br>![](https://github.com/MarnoDev/react-native-open-project/blob/master/res/wechatQR.jpg)
 </br>关注我在简书的React Native专题 **[《React Native开发阵营》](http://www.jianshu.com/c/b4ce1d706d1f)**
 </br>我的主页：>>>**[1.掘金](https://gold.xitu.io/user/56c1c513c24aa800534e85f3)** >>>**[2.简书](http://www.jianshu.com/u/174a09ba6c25)**
 </br>我们的网站：www.marno.cn（正在建设一个独特的技术空间，敬请期待！）
@@ -27,4 +27,4 @@
 |**8**|[react-weather](https://github.com/stage88/react-weather)|一款精致的天气类App|![](https://raw.githubusercontent.com/stage88/react-weather/master/screenshots/rw-1.PNG)|
 |**9**|[hackerweb-native](https://github.com/cheeaun/hackerweb-native)|一个简单的新闻类软件|![](https://github.com/cheeaun/hackerweb-native/blob/master/media/hackerweb-preview-android.gif)|
 |**10**|[react-native-OneLess](https://github.com/MIFind/react-native-OneLess)|使用React Native模仿ONE的App，完成度挺高|![](https://github.com/MIFind/react-native-OneLess/blob/master/image/ONE_112.gif)|
-|**10**|[]()||![]()|
+|**11**|[]()||![]()|
