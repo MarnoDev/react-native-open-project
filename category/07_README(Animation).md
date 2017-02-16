@@ -19,4 +19,13 @@
 |:---:|:---:|:---:|:---:|
 |**0**|[react-native-spinkit](https://github.com/maxs15/react-native-spinkit)|一些加载动画的集合|![](https://camo.githubusercontent.com/eab0143bfba13bd46819282dc420e4ed39fe17b3/687474703a2f2f692e696d6775722e636f6d2f41774a73616b552e676966)|
 |**1**|[react-native-progress](https://github.com/oblador/react-native-progress)|带动画的进度条|![](https://cloud.githubusercontent.com/assets/378279/11212043/64fb1420-8d01-11e5-9ec0-5e175a837c62.gif)|
-|**2**|[]()||![]()|
+|**2**|[lottie-react-native](https://github.com/airbnb/lottie-react-native)|既然这么叼，我想应该不用介绍了吧？Airbnb良心开源动画库|![](https://github.com/airbnb/lottie-react-native/blob/master/docs/gifs/Example2.gif)|
+|**3**|[react-native-touchable-bounce](https://github.com/grabbou/react-native-touchable-bounce)|带回弹效果的按钮|![](https://cloud.githubusercontent.com/assets/2464966/13904982/de81a4ae-eeb2-11e5-93d5-797ba1758a23.gif)|
+|**4**|[]()||![]()|
+|**5**|[]()||![]()|
+|**6**|[]()||![]()|
+|**7**|[]()||![]()|
+|**8**|[]()||![]()|
+|**9**|[]()||![]()|
+|**10**|[]()||![]()|
+|**11**|[]()||![]()|

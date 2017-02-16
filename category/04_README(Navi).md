@@ -24,4 +24,8 @@
 |**4**|[react-native-nav](https://github.com/jineshshah36/react-native-nav)|一个通用的顶部标题栏，可以支持文字或图标|![](https://github.com/jineshshah36/react-native-nav/blob/master/examples/assets/react-native-nav_preview_new.png)|
 |**5**|[react-navigation](https://github.com/react-community/react-navigation)|Learn once, navigate anywhere，强大的导航组件|![](https://reactnavigation.org/assets/examples/first-navigation-android.png)|
 |**6**|[react-native-navigation-drawer](https://github.com/ilansas/react-native-navigation-drawer)|侧滑菜单|![](https://camo.githubusercontent.com/61efef9f1b37be084618705222291cb95ee3dd1b/687474703a2f2f696d6731312e686f7374696e67706963732e6e65742f706963732f3238323336346769662e676966)|
-|**7**|[]()||![]()|
+|**7**|[react-native-custom-segmented-control](https://github.com/wix/react-native-custom-segmented-control)|顶部tab，带指示器和奇切换动画|![](https://github.com/wix/react-native-custom-segmented-control/blob/master/images/my_segmented1.gif)</br>![](https://github.com/wix/react-native-custom-segmented-control/blob/master/images/my_segmented6.gif)|
+|**8**|[react-native-segmented-view](https://github.com/lelandrichardson/react-native-segmented-view)|顶部tab组件|![](https://camo.githubusercontent.com/6ecefade296b71c4aff53baa6169e241b0a54ebb/687474703a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456476326d766f4c5764576d7865696b2f67697068792e676966)|
+|**9**|[]()||![]()|
+|**10**|[]()||![]()|
+|**11**|[]()||![]()|

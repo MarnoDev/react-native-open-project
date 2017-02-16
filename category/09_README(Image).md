@@ -18,5 +18,14 @@
 |序号|名称/地址|简介|预览图|
 |:---:|:---:|:---:|:---:|
 |**0**|[gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native)|通过WebGL给图片添加各种炫酷效果的组件，而且是各种炫酷|![](https://github.com/ProjectSeptemberInc/gl-react-native/blob/master/example)|
-|**1**|[]()||![]()|
-|**2**|[]()||![]()|
+|**1**|[react-native-blur](https://github.com/react-native-community/react-native-blur)|进行图片模糊的组件|![](https://cloud.githubusercontent.com/assets/5795227/20123354/d877dba4-a61e-11e6-8e5a-c85f76419e20.gif)|
+|**2**|[react-native-photo-browser](https://github.com/halilb/react-native-photo-browser)|选择系统相册图片，浏览选中大图|![](https://github.com/halilb/react-native-photo-browser/blob/master/screenshots/photo-browser.gif)|
+|**3**|[react-native-fit-image](https://github.com/huiseoul/react-native-fit-image)|根据图片的大小自动进行缩放的Image组件|![](https://github.com/originerd/react-native-fit-image-example/blob/master/fit_image_example_portrait.gif)|
+|**4**|[react-native-webp](https://github.com/dbasedow/react-native-webp)|使项目支持WebP图片格式|**没有图**|
+|**5**|[]()||![]()|
+|**6**|[]()||![]()|
+|**7**|[]()||![]()|
+|**8**|[]()||![]()|
+|**9**|[]()||![]()|
+|**10**|[]()||![]()|
+|**11**|[]()||![]()|
