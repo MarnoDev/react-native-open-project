@@ -1,4 +1,4 @@
-# 5.存储
+# 7.动画
 *****
 ### 一、关于我们
 >我们的公众号【aMarno】 ，或者直接扫码关注↓↓↓
@@ -17,7 +17,6 @@
 ### 三、项目预览
 |序号|名称/地址|简介|预览图|
 |:---:|:---:|:---:|:---:|
-|**0**|[react-native-storage](https://github.com/sunnylqm/react-native-storage)|本地键值对存储，支持持久化存储|**这个真没图**|
-|**1**|[realm-js](https://github.com/realm/realm-js)|搞移动开发的还有谁还不知道Realm的？移动平台数据库存储没有之一！特点就一个：快！快！快！现在也推出了JS版的v1.0.0|![](https://github.com/realm/realm-js/raw/master/logo.png)|
-|**2**|[react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage)|React Native上的sqlite存储工具|![]()|
-|**0**|[]()||![]()|
+|**0**|[react-native-spinkit](https://github.com/maxs15/react-native-spinkit)|一些加载动画的集合|![](https://camo.githubusercontent.com/eab0143bfba13bd46819282dc420e4ed39fe17b3/687474703a2f2f692e696d6775722e636f6d2f41774a73616b552e676966)|
+|**1**|[react-native-progress](https://github.com/oblador/react-native-progress)|带动画的进度条|![](https://cloud.githubusercontent.com/assets/378279/11212043/64fb1420-8d01-11e5-9ec0-5e175a837c62.gif)|
+|**2**|[]()||![]()|

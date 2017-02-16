@@ -1,4 +1,4 @@
-# 5.存储
+# 6.辅助资源
 *****
 ### 一、关于我们
 >我们的公众号【aMarno】 ，或者直接扫码关注↓↓↓
@@ -17,7 +17,5 @@
 ### 三、项目预览
 |序号|名称/地址|简介|预览图|
 |:---:|:---:|:---:|:---:|
-|**0**|[react-native-storage](https://github.com/sunnylqm/react-native-storage)|本地键值对存储，支持持久化存储|**这个真没图**|
-|**1**|[realm-js](https://github.com/realm/realm-js)|搞移动开发的还有谁还不知道Realm的？移动平台数据库存储没有之一！特点就一个：快！快！快！现在也推出了JS版的v1.0.0|![](https://github.com/realm/realm-js/raw/master/logo.png)|
-|**2**|[react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage)|React Native上的sqlite存储工具|![]()|
-|**0**|[]()||![]()|
+|**0**|[react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)|包含大量图标，如果在引用时直接用"arrow-back"则会自己区分平台，如果使用“ios(md)-arrow-back”，指定平台|![](https://cloud.githubusercontent.com/assets/378279/12009887/33f4ae1c-ac8d-11e5-8666-7a87458753ee.png)|
+|**1**|[]()||![]()|
