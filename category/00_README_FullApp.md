@@ -23,8 +23,13 @@
 |**4**|[FinanceReactNative](https://github.com/7kfpun/FinanceReactNative)|使用React Native做的金融证券股票类App|![](https://github.com/7kfpun/FinanceReactNative/blob/master/previewIOS.gif)|
 |**5**|[react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator)|简洁美观的计算器|![](https://github.com/benoitvallon/react-native-nw-react-calculator/blob/master/images/mobile-apps.png)|
 |**6**|[30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native)|30天学React Native的Demo App，结合作者源码，学React Native效果杠杆滴！|![](https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif)|
-|**7**|[react-native-sudoku](https://github.com/nihgwu/react-native-sudoku)|一个用React Native写的数独游戏|![](https://github.com/nihgwu/react-native-sudoku/blob/master/resource/demo.gif)|
-|**8**|[react-weather](https://github.com/stage88/react-weather)|一款精致的天气类App|![](https://raw.githubusercontent.com/stage88/react-weather/master/screenshots/rw-1.PNG)|
-|**9**|[hackerweb-native](https://github.com/cheeaun/hackerweb-native)|一个简单的新闻类软件|![](https://github.com/cheeaun/hackerweb-native/blob/master/media/hackerweb-preview-android.gif)|
+|**7**|[react-native-sudoku](https://github.com/nihgwu/react-native-sudoku)|用React Native写的数独游戏|![](https://github.com/nihgwu/react-native-sudoku/blob/master/resource/demo.gif)|
+|**8**|[react-weather](https://github.com/stage88/react-weather)|精致的天气类App|![](https://raw.githubusercontent.com/stage88/react-weather/master/screenshots/rw-1.PNG)|
+|**9**|[hackerweb-native](https://github.com/cheeaun/hackerweb-native)|简单的新闻类软件|![](https://github.com/cheeaun/hackerweb-native/blob/master/media/hackerweb-preview-android.gif)|
 |**10**|[react-native-OneLess](https://github.com/MIFind/react-native-OneLess)|使用React Native模仿ONE的App，完成度挺高|![](https://github.com/MIFind/react-native-OneLess/blob/master/image/ONE_112.gif)|
-|**11**|[]()||![]()|
+|**11**|[JueJinClient](https://github.com/wangdicoder/JueJinClient)|仿掘金客户端|![](https://github.com/wangdicoder/JueJinClient/raw/master/screenshot/home.png)|
+|**12**|[react-native-cnblogs](https://github.com/togayther/react-native-cnblogs)|RN编写的博客园客户端|![](https://camo.githubusercontent.com/4dcc71b7b2c618fd50bfd4fa15826291e8d703c7/687474703a2f2f3132332e35362e3133352e3136362f636e626c6f672f7075626c69632f696d672f73637265656e73686f745f6e65772f6472617765725f3336302e706e67)|
+|**13**|[shopping-react-native](https://github.com/bigsui/shopping-react-native)|一个商城类的RN项目|![](https://github.com/bigsui/shopping-react-native/blob/master/screenshot/rn1.png)|
+|**14**|[ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)|仿知乎日报|![](https://github.com/race604/ZhiHuDaily-React-Native/blob/master/art/home1.jpg)|
+|**15**|[A-ReactNative-TesterHome](https://github.com/qddegtya/A-ReactNative-TesterHome)|社区咨询类App|![](https://github.com/qddegtya/A-ReactNative-TesterHome/blob/master/demo.gif)|
+|**16**|[]()||![]()|
