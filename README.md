@@ -8,7 +8,7 @@
 - 公众号回复 RN，可加入 RN 技术微信交流群
 - Marno 的主页：**[【 掘金 】](https://gold.xitu.io/user/56c1c513c24aa800534e85f3)** **[【 简书 】](http://www.jianshu.com/u/174a09ba6c25)**
 - 简书专题 **[《 React Native开发阵营 》](http://www.jianshu.com/c/b4ce1d706d1f)**
-- ![](https://github.com/MarnoDev/react-native-open-project/blob/master/res/QR.jpg)
+</br>![](https://github.com/MarnoDev/react-native-open-project/blob/master/res/QR.jpg)
 
 ### ★ 注意事项
 
