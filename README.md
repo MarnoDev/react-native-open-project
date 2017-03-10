@@ -1,38 +1,52 @@
-# 优秀React Native项目推荐
+# React Native 优秀开源项目大全（每月15更新）
 ******
-### 一、关于我们
->我们的公众号【aMarno】 ，或者直接扫码关注↓↓↓
-</br>专注分享React Native开发技术和资源
-</br>关注公众号回复RN，可加入RN技术交流群，1群已满，请加2群
-</br>![](https://github.com/MarnoDev/react-native-open-project/blob/master/res/wechatQR.jpg)
-</br>关注我在简书的React Native专题 **[《React Native开发阵营》](http://www.jianshu.com/c/b4ce1d706d1f)**
-</br>我的主页：>>>**[1.掘金](https://gold.xitu.io/user/56c1c513c24aa800534e85f3)** >>>**[2.简书](http://www.jianshu.com/u/174a09ba6c25)**
+### ★ 关于我们
+- **公众号【 aMarno 】专注分享 React Native 技术和资源 ，扫码关注↓↓↓**
 
-### 二、题外话
-我觉得React Native的发展是一种趋势，而且他最大的有点就是能实现跨平台共用代码，如果某个组件库不能同时兼容Android和iOS,我觉得就失去了React Native的优势，**所以本库中仅收录可以同时兼容Android和iOS平台的项目**。
+- 公众号回复 RN，可加入 RN 技术微信交流群
 
-**欢迎各位推荐好的 React Native 项目给我们**。
-*******
-### 三、入门教程
-1. **[《给所有开发者的React Native详细入门指南（第一阶段）》](http://www.jianshu.com/p/fa0874be0827)**
+- Marno 的主页：**[【 掘金 】](https://gold.xitu.io/user/56c1c513c24aa800534e85f3)** **[【 简书 】](http://www.jianshu.com/u/174a09ba6c25)**
 
-### 四、分类检索
-各分类项目正在完善中，请持续关注。如有更新，会第一时间在微信公众号通知大家。
+- 简书专题 **[《React Native开发阵营》](http://www.jianshu.com/c/b4ce1d706d1f)**
 
-|序号|功能模块|上次更新|简介|链接|
+- ![](https://github.com/MarnoDev/react-native-open-project/blob/master/res/wechatQR.jpg)
+
+### ★ 注意事项
+- 收录标准：兼容双平台并支持 0.40+ ，若有违背收录标准的请 github 提 issue
+
+- 各分类项目正在完善中，请持续关注。如有更新，会第一时间在微信公众号通知大家。
+
+- **欢迎推荐好的 React Native 项目给我们**。
+
+### ★ 使用方法
+我再不厌其烦的说一下启动 RN 项目的流程
+
+- npm install
+
+- react-native link（可选）
+
+- react-native run-android（iOS 平台需要换成 run-ios）
+
+**注意！！** link 以后， Android 平台可能会在 Application 中重复生成对象，会导致编译报错，手动删除重复对象即可。具体可以到我的主页找我另一篇关于 RN 踩坑的文章看下。
+
+
+### ★ 分类检索
+
+
+|序号|功能模块|上次更新|简介|收录数量|
 |:---:|:---:|:---:|:---:|:---:|
-|**0**|完整App|2017.2.21|使用React Native开发</br>且功能完整的App|[FullApp](https://github.com/MarnoDev/react-native-open-project/blob/master/category/00_README_FullApp.md)|
-|**1**|综合框架|2017.2.21|集合常用组件的综合组件库|[BaseFrame](https://github.com/MarnoDev/react-native-open-project/blob/master/category/00_README_FullApp.md)|
-|**2**|滚动视图|2017.2.21|列表、刷新、加载等|[ScrollView](https://github.com/MarnoDev/react-native-open-project/blob/master/category/02_README_ScrollView.md)|
-|**3**|多媒体|2017.2.16|视频播放，拍照，录音等|[Media](https://github.com/MarnoDev/react-native-open-project/blob/master/category/03_README_Media.md)|
-|**4**|导航|2017.2.16|底部tab，页面管理等|[Navi](https://github.com/MarnoDev/react-native-open-project/blob/master/category/04_README_Navi.md)|
-|**5**|存储|2017.2.16|文件、数据库、键值对存储等|[Stroage](https://github.com/MarnoDev/react-native-open-project/blob/master/category/05_README_Stroage.md)|
-|**6**|辅助资源|2017.2.16|图标、工具类等|[Utils](https://github.com/MarnoDev/react-native-open-project/blob/master/category/06_README_Utils.md)|
-|**7**|动画|2017.2.16|各类动画|[Animation](https://github.com/MarnoDev/react-native-open-project/blob/master/category/07_README_Animation.md)|
-|**8**|弹出提示|2017.2.16|弱提示，确认框，下拉菜单等|[PopUp](https://github.com/MarnoDev/react-native-open-project/blob/master/category/08_README_PopUp.md)|
-|**9**|图片|2017.2.16|图形图像，滤镜，模糊，修改|[Image](https://github.com/MarnoDev/react-native-open-project/blob/master/category/09_README_Image.md)|
-|**10**|文本|2017.2.16|文本、输入框、搜索框|[Text&Input](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_README_Text&Input.md)|
-|**11**|菜单|2017.2.21|侧滑，展开，悬浮等各类菜单组件|[Menu](https://github.com/MarnoDev/react-native-open-project/blob/master/category/11_README_Menu.md)|
+|**0**|[完整App](https://github.com/MarnoDev/react-native-open-project/blob/master/category/00_README_FullApp.md)|2017.2.21|使用React Native开发</br>且功能完整的App|16|
+|**1**|[综合框架](https://github.com/MarnoDev/react-native-open-project/blob/master/category/01_README_BaseFrame.md)|2017.2.21|集合常用组件的综合组件库|6|
+|**2**|[滚动视图](https://github.com/MarnoDev/react-native-open-project/blob/master/category/02_README_ScrollView.md)|2017.2.21|列表、刷新、加载等|11|
+|**3**|[多媒体](https://github.com/MarnoDev/react-native-open-project/blob/master/category/03_README_Media.md)|2017.2.16|视频播放，拍照，录音等|3|
+|**4**|[导航](https://github.com/MarnoDev/react-native-open-project/blob/master/category/04_README_Navi.md)|2017.2.16|底部tab，页面管理等|9|
+|**5**|[存储](https://github.com/MarnoDev/react-native-open-project/blob/master/category/05_README_Stroage.md)|2017.2.16|文件、数据库、键值对存储等|3|
+|**6**|[辅助资源](https://github.com/MarnoDev/react-native-open-project/blob/master/category/06_README_Utils.md)|2017.2.16|图标、工具类等|1|
+|**7**|[动画](https://github.com/MarnoDev/react-native-open-project/blob/master/category/07_README_Animation.md)|2017.2.16|各类动画|4|
+|**8**|[弹出提示](https://github.com/MarnoDev/react-native-open-project/blob/master/category/08_README_PopUp.md)|2017.2.16|弱提示，确认框，下拉菜单等|11|
+|**9**|[图片](https://github.com/MarnoDev/react-native-open-project/blob/master/category/09_README_Image.md)|2017.2.16|图形图像，滤镜，模糊，修改|5|
+|**10**|[文本](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_README_Text&Input.md)|2017.2.16|文本、输入框、搜索框|6|
+|**11**|[菜单](https://github.com/MarnoDev/react-native-open-project/blob/master/category/11_README_Menu.md)|2017.2.21|侧滑，展开，悬浮等各类菜单组件|6|
 |**...**|...|...|...|...|
-|**20**|不知道怎么分类|2017.2.16|其他不知道怎么分类的组件都在这里了|[20_README_Others](https://github.com/MarnoDev/react-native-open-project/blob/master/category/20_README_Others.md)|
-|**21**||||[这个不能点](https://github.com/MarnoDev/react-native-open-project)|
+|**20**|[其他](https://github.com/MarnoDev/react-native-open-project/blob/master/category/20_README_Others.md)|2017.2.16|其他不知道怎么分类的组件都在这里了|13|
+|**21**||||Marno|
