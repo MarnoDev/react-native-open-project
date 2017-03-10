@@ -1,32 +1,17 @@
 # 0.完整App
+
 *****
+
 ### ★ 关于我们
+
 - **公众号【 aMarno 】专注分享 React Native 技术和资源 ，扫码关注↓↓↓**
-
 - 公众号回复 RN，可加入 RN 技术微信交流群
-
 - Marno 的主页：**[【 掘金 】](https://gold.xitu.io/user/56c1c513c24aa800534e85f3)** **[【 简书 】](http://www.jianshu.com/u/174a09ba6c25)**
-- 简书专题 **[《React Native开发阵营》](http://www.jianshu.com/c/b4ce1d706d1f)**
+- 简书专题 **[《 React Native开发阵营 》](http://www.jianshu.com/c/b4ce1d706d1f)**
+</br>![](https://github.com/MarnoDev/react-native-open-project/blob/master/res/QR.jpg)
 
-### ★ 注意事项
-- 收录标准：兼容双平台并支持 0.40+ ，若有违背收录标准的请 github 提 issue
 
-- 各分类项目正在完善中，请持续关注。如有更新，会第一时间在微信公众号通知大家。
-
-- **欢迎推荐好的 React Native 项目给我们**。
-
-### ★ 使用方法
-我再不厌其烦的说一下启动 RN 项目的流程
-
-- npm install
-
-- react-native link（可选）
-
-- react-native run-android（iOS 平台需要换成 run-ios）
-
-**注意！！** link 以后， Android 平台可能会在 Application 中重复生成对象，会导致编译报错，手动删除重复对象即可。具体可以到我的主页找我另一篇关于 RN 踩坑的文章看下。
-
-### 三、项目预览
+### ★ 项目列表
 |序号|名称/地址|简介|预览图|
 |:---:|:---:|:---:|:---:|
 |**0**|[react-native-eyepetizer](https://github.com/MarnoDev/react-native-eyepetizer)|模仿开眼3.1.2|![](https://github.com/MarnoDev/react-native-eyepetizer/blob/master/screenshot/screenshot0.gif)|
