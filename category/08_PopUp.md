@@ -24,4 +24,14 @@
 |**8**|[react-native-root-modal](https://github.com/magicismight/react-native-root-modal)|弹出页面|![](https://github.com/magicismight/react-native-root-modal/blob/master/Example/screenShoot.ios.gif)|
 |**9**|[react-native-picker](https://github.com/beefe/react-native-picker)|底部弹出Picker，多级联动，三级联动选择器|![](https://github.com/beefe/react-native-picker/blob/master/doc/ui4.jpg)|
 |**10**|[react-native-picker-xg](https://github.com/xgfe/react-native-picker-xg)|滚轮选择器|![](https://raw.githubusercontent.com/lulutia/react-native-tpicker/master/show.gif)|
+|**11**|[React-Native-SnackBar-Component](https://github.com/SiDevesh/React-Native-SnackBar-Component)|类似Android平台上的snackbar|![](https://camo.githubusercontent.com/9a97a6b6084fedbdda5756ce6d6c1e6610944bca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a43685453576f6737544e6d4d2f67697068792e676966)|
 |**11**|[]()||![]()|
+|**11**|[]()||![]()|
+|**11**|[]()||![]()|
+|**11**|[]()||![]()|
+|**11**|[]()||![]()|
+|**11**|[]()||![]()|
+|**11**|[]()||![]()|
+|**11**|[]()||![]()|
+|**11**|[]()||![]()|
+

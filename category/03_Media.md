@@ -16,5 +16,7 @@
 |**0**|[react-native-video](https://github.com/react-native-community/react-native-video)|兼容Andorid和iOS的视频播放组件，安卓在安装以后需要还需要手动修改node_module中的文件才能正确使用，修改方式可以看我博客|![](https://github.com/brentvatne/facebook-login/blob/master/demo!!!.gif)|
 |**1**|[react-native-camera](https://github.com/lwansbrough/react-native-camera)|通过React Native直接调用设备相机进行录制和拍摄的组件|![](https://cloud.githubusercontent.com/assets/2302315/22190752/6bc6ccd0-e0da-11e6-8e2f-6f22a3567a57.gif)|
 |**2**|[react-native-audio](https://github.com/jsierles/react-native-audio)|通过React Native进行音频录制|![]()|
-|**3**|[]()||![]()|
-|**4**|[]()||![]()|
+|**3**|[react-native-video-processing](https://github.com/shahen94/react-native-video-processing)|视频编辑库|**没有图**|
+|**4**|[react-native-camera-roll-picker](https://github.com/jeanpan/react-native-camera-roll-picker)|选取系统相册中的照片|![](https://raw.githubusercontent.com/jeanpan/react-native-camera-roll-picker/master/demo/demo.gif)|
+|**5**|[]()||![]()|
+|**6**|[]()||![]()|

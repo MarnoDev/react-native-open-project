@@ -1,5 +1,5 @@
 ## React Native 优秀开源项目大全（每月15更新）
-## 目前累计收录：【 94 】
+## 目前累计收录：【 90 】
 --------
 
 ### ★ 关于我们
@@ -37,12 +37,12 @@
 |**3**|[多媒体](https://github.com/MarnoDev/react-native-open-project/blob/master/category/03_Media.md)|2017.2.16|视频播放，拍照，录音等|3|
 |**4**|[导航](https://github.com/MarnoDev/react-native-open-project/blob/master/category/04_Navi.md)|2017.2.16|底部tab，页面管理等|9|
 |**5**|[存储](https://github.com/MarnoDev/react-native-open-project/blob/master/category/05_Stroage.md)|2017.2.16|文件、数据库、键值对存储等|3|
-|**6**|[辅助资源](https://github.com/MarnoDev/react-native-open-project/blob/master/category/06_Utils.md)|2017.2.16|图标、工具类等|1|
+|**6**|[辅助资源](https://github.com/MarnoDev/react-native-open-project/blob/master/category/06_Utils.md)|2017.3.14|图标、工具类等|1|
 |**7**|[动画](https://github.com/MarnoDev/react-native-open-project/blob/master/category/07_Animation.md)|2017.2.16|各类动画|4|
-|**8**|[弹出提示](https://github.com/MarnoDev/react-native-open-project/blob/master/category/08_PopUp.md)|2017.2.16|弱提示，确认框，下拉菜单等|11|
+|**8**|[弹出提示](https://github.com/MarnoDev/react-native-open-project/blob/master/category/08_PopUp.md)|2017.3.14|弱提示，确认框，下拉菜单等|11|
 |**9**|[图片](https://github.com/MarnoDev/react-native-open-project/blob/master/category/09_Image.md)|2017.2.16|图形图像，滤镜，模糊，修改|5|
 |**10**|[文本](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_Text&Input.md)|2017.2.16|文本、输入框、搜索框|6|
 |**11**|[菜单](https://github.com/MarnoDev/react-native-open-project/blob/master/category/11_Menu.md)|2017.2.21|侧滑，展开，悬浮等各类菜单组件|6|
 |**...**|...|...|...|...|
-|**20**|[其他](https://github.com/MarnoDev/react-native-open-project/blob/master/category/20_Others.md)|2017.2.16|其他不知道怎么分类的组件都在这里了|13|
+|**20**|[其他](https://github.com/MarnoDev/react-native-open-project/blob/master/category/20_Others.md)|2017.3.14|其他不知道怎么分类的组件都在这里了|9|
 |**21**||||Marno|

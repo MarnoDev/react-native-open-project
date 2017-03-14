@@ -19,8 +19,8 @@
 |**3**|[react-native-marquee-label](https://github.com/remobile/react-native-marquee-label)|带跑马灯效果的Text组件|![](https://github.com/remobile/react-native-marquee-label/blob/master/screencasts/demo.gif)|
 |**4**|[react-native-hyperlink](https://github.com/obipawan/react-native-hyperlink)|支持超链接的Text|![](https://camo.githubusercontent.com/abea3c1c64ff3214c2e1cec3c04dab593d46fbe1/68747470733a2f2f63646e2e7261776769742e636f6d2f6f6269706177616e2f68797065726c696e6b2f6d61737465722f61737365742f73637265656e2e676966)|
 |**5**|[react-native-hypertext](https://github.com/agentcooper/react-native-hypertext)|支持超链接的Text|![](https://raw.githubusercontent.com/agentcooper/react-native-hypertext/master/screenshot.png)|
-|**6**|[]()||![]()|
-|**7**|[]()||![]()|
+|**6**|[react-native-mentions](https://github.com/harshq/react-native-mentions)|一个可以通过 @ 符号提及某人的输入框|![](https://github.com/harshq/react-native-mentions/raw/master/example.gif)|
+|**7**|[react-native-floating-labels](https://github.com/mayank-patel/react-native-floating-labels)|类似Android上的一个输入框组件|![](https://raw.githubusercontent.com/mayank-patel/react-native-floating-labels/master/demo.gif)|
 |**8**|[]()||![]()|
 |**9**|[]()||![]()|
 |**10**|[]()||![]()|
