@@ -1,5 +1,5 @@
 ## React Native 优秀开源项目大全（每月15更新）
-## 目前累计收录：【 90 】
+## 目前累计收录：【  106 】
 --------
 
 ### ★ 关于我们
@@ -34,15 +34,16 @@
 |**0**|[完整App](https://github.com/MarnoDev/react-native-open-project/blob/master/category/00_FullApp.md)|2017.2.21|使用React Native开发</br>且功能完整的App|16|
 |**1**|[综合框架](https://github.com/MarnoDev/react-native-open-project/blob/master/category/01_BaseFrame.md)|2017.2.21|集合常用组件的综合组件库|6|
 |**2**|[滚动视图](https://github.com/MarnoDev/react-native-open-project/blob/master/category/02_ScrollView.md)|2017.2.21|列表、刷新、加载等|11|
-|**3**|[多媒体](https://github.com/MarnoDev/react-native-open-project/blob/master/category/03_Media.md)|2017.2.16|视频播放，拍照，录音等|3|
+|**3**|[多媒体](https://github.com/MarnoDev/react-native-open-project/blob/master/category/03_Media.md)|2017.3.14|视频播放，拍照，录音等|5|
 |**4**|[导航](https://github.com/MarnoDev/react-native-open-project/blob/master/category/04_Navi.md)|2017.2.16|底部tab，页面管理等|9|
 |**5**|[存储](https://github.com/MarnoDev/react-native-open-project/blob/master/category/05_Stroage.md)|2017.2.16|文件、数据库、键值对存储等|3|
-|**6**|[辅助资源](https://github.com/MarnoDev/react-native-open-project/blob/master/category/06_Utils.md)|2017.3.14|图标、工具类等|1|
-|**7**|[动画](https://github.com/MarnoDev/react-native-open-project/blob/master/category/07_Animation.md)|2017.2.16|各类动画|4|
-|**8**|[弹出提示](https://github.com/MarnoDev/react-native-open-project/blob/master/category/08_PopUp.md)|2017.3.14|弱提示，确认框，下拉菜单等|11|
-|**9**|[图片](https://github.com/MarnoDev/react-native-open-project/blob/master/category/09_Image.md)|2017.2.16|图形图像，滤镜，模糊，修改|5|
-|**10**|[文本](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_Text&Input.md)|2017.2.16|文本、输入框、搜索框|6|
-|**11**|[菜单](https://github.com/MarnoDev/react-native-open-project/blob/master/category/11_Menu.md)|2017.2.21|侧滑，展开，悬浮等各类菜单组件|6|
+|**6**|[辅助资源](https://github.com/MarnoDev/react-native-open-project/blob/master/category/06_Utils.md)|2017.3.14|图标、工具类等|3|
+|**7**|[动画](https://github.com/MarnoDev/react-native-open-project/blob/master/category/07_Animation.md)|2017.3.14|各类动画|5|
+|**8**|[弹出提示](https://github.com/MarnoDev/react-native-open-project/blob/master/category/08_PopUp.md)|2017.3.14|弱提示，确认框，下拉菜单等|12|
+|**9**|[图片](https://github.com/MarnoDev/react-native-open-project/blob/master/category/09_Image.md)|2017.3.14|图形图像处理（滤镜，模糊，修改）|6|
+|**10**|[文本](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_Text&Input.md)|2017.2.16|文本、输入框、搜索框|8|
+|**11**|[菜单](https://github.com/MarnoDev/react-native-open-project/blob/master/category/11_Menu.md)|2017.3.14|侧滑，展开，悬浮等各类菜单组件|7|
+|**12**|[图表](https://github.com/MarnoDev/react-native-open-project/blob/master/category/12_Chart.md)|2017.3.14|各种图表|2|
 |**...**|...|...|...|...|
-|**20**|[其他](https://github.com/MarnoDev/react-native-open-project/blob/master/category/20_Others.md)|2017.3.14|其他不知道怎么分类的组件都在这里了|9|
+|**20**|[其他](https://github.com/MarnoDev/react-native-open-project/blob/master/category/20_Others.md)|2017.3.14|其他不知道怎么分类的组件都在这里了|13|
 |**21**||||Marno|
