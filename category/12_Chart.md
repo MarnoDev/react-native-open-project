@@ -13,8 +13,7 @@
 ### ★ 项目预览
 |序号|名称/地址|简介|预览图|
 |:---:|:---:|:---:|:---:|
-|**0**|[react-native-charts-wrapper](https://github.com/wuxudong/react-native-charts-wrapper)|图表组件，用RN代码对原生组件进行了包装。</br>Android上用的MPAndroidChart，iOS
-上用的是Charts|![](https://raw.githubusercontent.com/wuxudong/react-native-charts-wrapper/master/screenshot/IOS%20ScreenShot.png)|
+|**0**|[react-native-charts-wrapper](https://github.com/wuxudong/react-native-charts-wrapper)|图表组件，用RN代码对原生组件进行了包装。</br>Android上用的MPAndroidChart，iOS上用的是Charts|![](https://raw.githubusercontent.com/wuxudong/react-native-charts-wrapper/master/screenshot/IOS%20ScreenShot.png)|
 |**1**|[react-native-pie](https://github.com/nihgwu/react-native-pie)|饼状图表，支持双平台|![](https://github.com/nihgwu/react-native-pie/raw/master/demo/ios.png)|
 |**2**|[]()||![]()|
 |**3**|[]()||![]()|

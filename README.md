@@ -41,7 +41,7 @@
 |**7**|[动画](https://github.com/MarnoDev/react-native-open-project/blob/master/category/07_Animation.md)|2017.3.14|各类动画|5|
 |**8**|[弹出提示](https://github.com/MarnoDev/react-native-open-project/blob/master/category/08_PopUp.md)|2017.3.14|弱提示，确认框，下拉菜单等|12|
 |**9**|[图片](https://github.com/MarnoDev/react-native-open-project/blob/master/category/09_Image.md)|2017.3.14|图形图像处理（滤镜，模糊，修改）|6|
-|**10**|[文本](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_Text&Input.md)|2017.2.16|文本、输入框、搜索框|8|
+|**10**|[文本](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_Text&Input.md)|2017.3.14|文本、输入框、搜索框|8|
 |**11**|[菜单](https://github.com/MarnoDev/react-native-open-project/blob/master/category/11_Menu.md)|2017.3.14|侧滑，展开，悬浮等各类菜单组件|7|
 |**12**|[图表](https://github.com/MarnoDev/react-native-open-project/blob/master/category/12_Chart.md)|2017.3.14|各种图表|2|
 |**...**|...|...|...|...|
