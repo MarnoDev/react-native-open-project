@@ -26,6 +26,9 @@
 
 **注意！！** link 以后， Android 平台可能会在 Application 中重复生成对象，会导致编译报错，手动删除重复对象即可。具体可以到我的主页找我另一篇关于 RN 踩坑的文章看下。
 
+### ★ 更新导读
+- [《 17 年 03 月 15 日更新导读 》](https://juejin.im/post/58c8963b2f301e007e2e17a5)
+- [《 17 年 04 月 15 日更新导读 》]()
 
 ### ★ 分类检索
 
@@ -44,6 +47,7 @@
 |**10**|[文本](https://github.com/MarnoDev/react-native-open-project/blob/master/category/10_Text&Input.md)|2017.3.14|文本、输入框、搜索框|8|
 |**11**|[菜单](https://github.com/MarnoDev/react-native-open-project/blob/master/category/11_Menu.md)|2017.3.14|侧滑，展开，悬浮等各类菜单组件|7|
 |**12**|[图表](https://github.com/MarnoDev/react-native-open-project/blob/master/category/12_Chart.md)|2017.3.14|各种图表|2|
+|**13**|[国内服务](https://github.com/MarnoDev/react-native-open-project/blob/master/category/13_Service.md)|2017.4.15|RN封装的QQ登录，极光推送，支付宝等|2|
 |**...**|...|...|...|...|
 |**20**|[其他](https://github.com/MarnoDev/react-native-open-project/blob/master/category/20_Others.md)|2017.3.14|其他不知道怎么分类的组件都在这里了|13|
 |**21**||||Marno|

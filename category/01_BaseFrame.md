@@ -19,8 +19,8 @@
 |**4**|[1.nachos-ui](https://github.com/avocode/nachos-ui)</br>[2.官网地址](https://avocode.com/nachos-ui/)|和其他的综合框架一样，包含了一些常用的组件，不想一个个找的可以直接使用这种框架|![](https://camo.githubusercontent.com/a61bd9d4e91b54f46ddc88223124df0ec299f84a/68747470733a2f2f636c6475702e636f6d2f7848596b41657a4f6e492e6a7067)|
 |**5**|[almaui](https://github.com/missingstack/almaui)|可以全局设置主题颜色的综合类框架|![](https://github.com/missingstack/almaui-starter/blob/master/assets/Almaui.png?raw=true)|
 |**6**|[tipsi-ui-kit](https://github.com/tipsi/tipsi-ui-kit)|包含组件比较少，大部分都是一些装饰性的组件|![](https://cloud.githubusercontent.com/assets/4946753/22082704/7eacf3ee-ddd1-11e6-8040-394699796a44.png)|
-|**7**|[]()||![]()|
-|**8**|[]()||![]()|
-|**9**|[]()||![]()|
+|**7**|[ignite](https://github.com/infinitered/ignite)|通过命令行创建带有模板代码的项目，可以学习一下代码的写法。配置略复杂，要求node和yarn必须是最新的|![](https://cloud.githubusercontent.com/assets/1479215/23348302/941b2d54-fc5d-11e6-9042-62501fa90b05.png)|
+|**8**|[react-native-starter-app](https://github.com/mcnamee/react-native-starter-app)|集合了一些常用组件的框架，省去不少搭建项目基础代码的时间|![](https://github.com/mcnamee/react-native-starter-app/raw/master/docs/rnsk-screens.jpg)|
+|**9**|[styled-components](https://github.com/styled-components/styled-components)|可以让自定义组件变得更简单的一个库|![](https://github.com/styled-components/styled-components)|
 |**10**|[]()||![]()|
 |**11**|[]()||![]()|

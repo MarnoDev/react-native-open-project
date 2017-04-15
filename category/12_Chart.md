@@ -15,7 +15,7 @@
 |:---:|:---:|:---:|:---:|
 |**0**|[react-native-charts-wrapper](https://github.com/wuxudong/react-native-charts-wrapper)|图表组件，用RN代码对原生组件进行了包装。</br>Android上用的MPAndroidChart，iOS上用的是Charts|![](https://raw.githubusercontent.com/wuxudong/react-native-charts-wrapper/master/screenshot/IOS%20ScreenShot.png)|
 |**1**|[react-native-pie](https://github.com/nihgwu/react-native-pie)|饼状图表，支持双平台|![](https://github.com/nihgwu/react-native-pie/raw/master/demo/ios.png)|
-|**2**|[]()||![]()|
+|**2**|[rn-d3-art-charts](https://github.com/mdvacca/rn-d3-art-charts)|带动画效果的图表组件，双平台通用，但是在Android 上没有动画效果|![](https://github.com/mdvacca/rn-d3-art-charts/raw/master/resources/screenshot.gif?raw=true)|
 |**3**|[]()||![]()|
 |**4**|[]()||![]()|
 |**5**|[]()||![]()|

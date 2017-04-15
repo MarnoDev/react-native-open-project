@@ -25,8 +25,7 @@
 |**9**|[react-native-picker](https://github.com/beefe/react-native-picker)|底部弹出Picker，多级联动，三级联动选择器|![](https://github.com/beefe/react-native-picker/blob/master/doc/ui4.jpg)|
 |**10**|[react-native-picker-xg](https://github.com/xgfe/react-native-picker-xg)|滚轮选择器|![](https://raw.githubusercontent.com/lulutia/react-native-tpicker/master/show.gif)|
 |**11**|[React-Native-SnackBar-Component](https://github.com/SiDevesh/React-Native-SnackBar-Component)|类似Android平台上的snackbar|![](https://camo.githubusercontent.com/9a97a6b6084fedbdda5756ce6d6c1e6610944bca/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7a43685453576f6737544e6d4d2f67697068792e676966)|
-|**12**|[]()||![]()|
-|**13**|[]()||![]()|
+|**12**|[ReactNativeTips](https://github.com/BingKui/ReactNativeTips)|移动端各类Tips提示组件合集，提供toast，success，error，alert，confirm等|![](https://github.com/BingKui/ReactNativeTips/raw/master/img/Tips.gif)|
+|**13**|[react-native-simple-toast](https://github.com/xgfe/react-native-simple-toast)|RN 封装的原生 Toast 组件，目前用的比较好用的一个Toast|![此处无图]()|
 |**14**|[]()||![]()|
 |**15**|[]()||![]()|
-

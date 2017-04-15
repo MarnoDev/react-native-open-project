@@ -20,7 +20,7 @@
 |**4**|[react-native-swipeout](https://github.com/dancormier/react-native-swipeout)|列表Item侧滑菜单|![](https://camo.githubusercontent.com/b48b5dfb4a8ca88cb1408a9a0ff5aecd8f92ff4b/687474703a2f2f692e696d6775722e636f6d2f6f43514c4e46432e676966)|
 |**5**|[react-native-swipeable](https://github.com/jshanson7/react-native-swipeable)|为列表Item添加侧滑功能的组件|![](https://raw.githubusercontent.com/jshanson7/react-native-swipeable/master/demo.gif)|
 |**6**|[react-native-circle-button](https://github.com/dwicao/react-native-circle-button)|带动画的圆形菜单|![](https://raw.githubusercontent.com/dwicao/react-native-circle-button/master/demo.gif)|
-|**7**|[]()||![]()|
+|**7**|[react-native-drawer](https://github.com/root-two/react-native-drawer)|侧滑菜单，用RN代码实现的，所以感觉比较卡|![](https://raw.githubusercontent.com/rt2zz/react-native-drawer/master/examples/rn-drawer.gif)|
 |**8**|[]()||![]()|
 |**9**|[]()||![]()|
 |**10**|[]()||![]()|
