@@ -19,8 +19,8 @@
 |**3**|[react-native-smart-alipay](https://github.com/react-native-component/react-native-smart-alipay)|支付宝支付|![](https://camo.githubusercontent.com/81360049cfa76cb40cb9474cb4d05c6ca7411810/687474703a2f2f63797172657369672e6769746875622e696f2f696d672f72656163742d6e61746976652d736d6172742d616c697061792d707265766965772d696f732d76312e302e302e676966)|
 |**4**|[react-native-open-share](https://github.com/mozillo/react-native-open-share)|新浪微博，微信，QQ，支付宝等分享，支付，登录|![](https://raw.githubusercontent.com/mozillo/react-native-open-share/master/screentshot_2.png)|
 |**5**|[react-native-wechat](https://github.com/weflex/react-native-wechat)|算是封装微信比较好的一个开源库了，支持微信登录，分享，支付，收藏等|![](https://github.com/weflex/react-native-wechat/raw/master/logo.jpg?raw=true)|
-|**6**|[]()||![]()|
-|**7**|[]()||![]()|
+|**6**|[react-native-share](https://github.com/EstebanFuentealba/react-native-share)|用于分享的组件|![](https://github.com/EstebanFuentealba/react-native-share/raw/master/assets/android-component-250x.gif)|
+|**7**|[react-native-share-extension](https://github.com/alinz/react-native-share-extension)|自定义分享平台的组件|![](https://raw.githubusercontent.com/alinz/react-native-share-extension/master/assets/ios-demo.gif)|
 |**8**|[]()||![]()|
 |**9**|[]()||![]()|
 |**10**|[]()||![]()|

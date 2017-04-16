@@ -34,8 +34,8 @@
 |**18**|[react-native-smart-button](https://github.com/react-native-component/react-native-smart-button)|一个功能丰富的按钮组件|![](https://camo.githubusercontent.com/819ff8e927f78bf0d841a0cd212f46a22d97a527/687474703a2f2f63797172657369672e6769746875622e696f2f696d672f72656163742d6e61746976652d736d6172742d627574746f6e2d707265766965772d696f732d76312e332e302e676966)|
 |**19**|[react-native-smart-badge](https://github.com/react-native-component/react-native-smart-badge)|一个角标组件|![](https://camo.githubusercontent.com/cca5e21ea7b57e5490f92747a41f0b257e2ea15d/687474703a2f2f63797172657369672e6769746875622e696f2f696d672f72656163742d6e61746976652d736d6172742d62616467652d707265766965772d696f732d76312e302e372e676966)|
 |**20**|[react-native-smart-gesture-password](https://github.com/react-native-component/react-native-smart-gesture-password)|手势九宫格图案解锁组件|![](https://camo.githubusercontent.com/30e6ae71dd60077497bdf99bf46c472d2dfd8af6/687474703a2f2f63797172657369672e6769746875622e696f2f696d672f72656163742d6e61746976652d736d6172742d676573747572652d70617373776f72642d707265766965772d696f732d76312e302e302e676966)|
-|**21**|[]()||![]()|
-|**22**|[]()||![]()|
-|**23**|[]()||![]()|
-|**24**|[]()||![]()|
+|**21**|[react-native-webview-bridge](https://github.com/alinz/react-native-webview-bridge)|实现webview与RN代码进行JS交互|![此处无图]()|
+|**22**|[react-native-qrcode-app](https://github.com/insiderdev/react-native-qrcode-app)|一个利用RN代码实现二维码识别的Demo|![](https://camo.githubusercontent.com/69fc6a8849ce54aa45823315fbe09b237ada5557/687474703a2f2f692e696d6775722e636f6d2f4b3339546a61712e6a7067)|
+|**23**|[react-native-keep-awake](https://github.com/corbt/react-native-keep-awake)|保持屏幕唤醒的组件|![此处无图]()|
+|**24**|[react-native-device-info](https://github.com/rebeccahughes/react-native-device-info)|获取手机设备信息的组件|![此处无图]()|
 |**25**|[]()||![]()|
